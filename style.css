@@ -109,8 +109,12 @@ img {
 }
 
 .col-sm .btn {
+  width: 200px;
+  height: 10%;
   font-size: 15px;
   margin-top: 20px;
+  border: 2px solid #e3e315;
+  border-radius: 15px;
 }
 
 .display-1 {
